@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmployeeSalaryCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmployeeSalaryCalculator_jar</output-path>
+    <root id="archive" name="EmployeeSalaryCalculator.jar">
+      <element id="module-output" name="EmployeeSalaryCalculator" />
+    </root>
+  </artifact>
+</component>
